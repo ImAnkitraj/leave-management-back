@@ -7,6 +7,6 @@
 
 ### Steps to run
 
-*run npm install or npm i 
-*run npm start to start the app
+* run npm install or npm i 
+* run npm start to start the app
 
